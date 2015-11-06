@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/DavidStrada/Front-End-OS/issues"
   },
-  "homepage": "https://github.com/DavidStrada/Front-End-OS#readme"
+  "homepage": "https://github.com/DavidStrada/Front-End-OS#readme",
+  "devDependencies": {
+    "gulp": "3.9.0"
+  }
 }
