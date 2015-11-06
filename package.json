@@ -1,0 +1,24 @@
+{
+  "name": "front-end-os",
+  "version": "1.0.0",
+  "description": "Common tasks, and useful conf. file, to develop Open Source Front-End packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidStrada/Front-End-OS.git"
+  },
+  "keywords": [
+    "front-end",
+    "os",
+    "js"
+  ],
+  "author": "David S (http://davidstrada.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidStrada/Front-End-OS/issues"
+  },
+  "homepage": "https://github.com/DavidStrada/Front-End-OS#readme"
+}
